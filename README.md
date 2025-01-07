@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![logo](banner_short.png)
+![logo](banner.png)
 
 ## About me
 
